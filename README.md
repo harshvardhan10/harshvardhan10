@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshvardhan10
-- 👀 I’m interested in Machine Learning and have recently started working on it
-- 🌱 I’m currently learning Machine Learning from scratch and making projects on it on the go
-- 💞️ I’m looking to collaborate on various Machine Learning projects depending on my level of expertise and understanding
+- 👀 I’m interested in Data Science and Machine Learning and have recently started working on it
+- 🌱 I’m currently learning Data Science and Machine Learning from scratch and making projects on it on the go
+- 💞️ I’m open to collaborating on various projects depending on my level of expertise and understanding
 - 📫 How to reach me ...
 - LinkedIn : https://www.linkedin.com/in/harshvardhanagarwal10/
 
